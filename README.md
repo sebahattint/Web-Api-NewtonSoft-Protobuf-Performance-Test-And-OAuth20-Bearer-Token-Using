@@ -22,6 +22,7 @@ TestSerializer methoduna request atılacak ve api de 1000 kaydın serialize edil
 **Sonuçlar :**
 
 Newtonsoft: 74 ms, 170 KB
+
 ProtoBuf: 21 ms, 54 KB
 
 

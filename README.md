@@ -15,12 +15,15 @@ Mobil taraftada deserialize işleminin yapılması içinde gerekli implementasyo
 
 **Örnek Test Senaryosu ve Sonuçları**
 
-**Senaryo**
+**Senaryo :**
+
 TestSerializer methoduna request atılacak ve api de 1000 kaydın serialize edilmesi işleminde geçen süre ve dönen verinin boyutu kontrol edilecek.
 
-**Sonuçlar**
+**Sonuçlar :**
+
 Newtonsoft: 74 ms, 170 KB
 ProtoBuf: 21 ms, 54 KB
+
 
 **Kullanımı:**
 
